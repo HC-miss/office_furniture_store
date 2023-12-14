@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:office_furniture_store/core/extensions/string.dart';
 import 'package:office_furniture_store/core/extensions/widget.dart';
 import 'package:office_furniture_store/core/values/app_style.dart';
